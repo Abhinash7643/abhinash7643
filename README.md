@@ -16,6 +16,8 @@
 ---
 [![HitCount](http://hits.dwyl.com/abhinash1995/abhinash1995.svg)](http://hits.dwyl.com/abhinash1995/abhinash1995)
 
+_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
+
 <img src = "https://github-readme-stats.vercel.app/api?username=abhinash1995&&show_icons=true&theme=radical">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinash1995&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
