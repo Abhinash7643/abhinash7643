@@ -19,7 +19,7 @@
 <br />
 
 ---
-[![HitCount](http://hits.dwyl.com/abhinash1995/abhinash1995.svg)](http://hits.dwyl.com/abhinash1995/abhinash1995)
+[![HitCount](http://hits.dwyl.com/abhinash1995/abhinash7643.svg)](http://hits.dwyl.com/abhinash7643/abhinash7643)
 
 <img src = "https://github-readme-stats.vercel.app/api?username=abhinash1995&&show_icons=true&theme=radical">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinash1995&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
