@@ -1,8 +1,8 @@
 ### Hola, I'm Abhinash Kumar! 👋
 
-- 🌱 I’m currently learning MERN and MEAN.
+- 🌱 I’m currently learning MEAN.
 - 👯 I’m looking to collaborate on a project.
-- 💬 Ask me about Spring boot, Angular, Java or any tech related stuff.
+- 💬 Ask me about Java, Spring boot, Microservice, Kafka, Angular or any tech related stuff.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours writing code everyday.
 
