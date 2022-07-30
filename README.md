@@ -1,6 +1,6 @@
 ### Hola, I'm Abhinash Kumar! 👋
 
-- 🌱 I’m currently learning MEAN.
+- 🌱 I’m currently learning Docker, Kubernative.
 - 👯 I’m looking to collaborate on a project.
 - 💬 Ask me about Java, Spring boot, Microservice, Kafka, Angular or any tech related stuff.
 - 😄 Pronouns: He/His
